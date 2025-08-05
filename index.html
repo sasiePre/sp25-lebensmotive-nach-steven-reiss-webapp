@@ -5,11 +5,74 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Lebensmotive</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
+    <link rel='stylesheet' type='text/css' media='screen' href='style/style.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='style/style.css'>
+    
+    
+    <style>
+    .card, .block {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+button {
+  margin-right: 1em;
+  padding: 0.5em 1em;
+}
+</style>
 </head>
 <body>
-    Hello World
+    
+<div class="max-w-xl mx-auto mt-20 px-6 font-serif text-[#D1E7DD] pb-10">
+    <button id="voice-toggle" class="text-sm text-gray-500 hover:text-[#1B4332] mt-4  print:hidden">
+        🔈 Voice: An
+    </button>
+   
+    <div id="start-screen" class="text-center p-10 bg-[#F8F6F0] rounded-xl shadow mb-6">
+        <h1 class="text-3xl font-bold text-[#1B4332] mb-6 pt-10">Lebensmotive entdecken</h1>
+        <p class="text-md text-[#1B4332] mb-6">Finde heraus, was dich im Leben antreibt.</p>
+        <button id="start-button"
+            class="bg-[#1B4332] text-white px-6 py-3 rounded-md hover:bg-[#123524] transition text-lg font-semibold mb-8">
+            Start
+        </button>
+    </div>
+
+    <div id="quiz-card" class="bg-[#1B4332] rounded-2xl p-10 shadow-lg">
+<h3 id="statement"
+    class="text-xl font-light mb-10 mt-10 tracking-wide leading-snug text-center min-h-[6rem] flex items-center justify-center">
+            Lade...
+        </h3>
+        <div class="flex justify-center space-x-6 pt-6">
+            <button id="yes"
+                class="w-full bg-transparent border border-white text-white px-6 py-2 rounded-md hover:bg-white hover:text-[#1B4332] transition">Stimmt</button>
+            <button id="no"
+                class="w-full bg-transparent border border-white text-white px-6 py-2 rounded-md hover:bg-white hover:text-[#1B4332] transition">Stimmt nicht</button>
+        </div>
+    </div>
+
+    <div class="text-left mt-4">
+        <button id="back" class="text-[#1B4332] hover:underline hidden">← Zurück</button>
+    </div>
+
+    <div id="result-area" class="mt-12 hidden text-[#1B4332]">
+        <div class="flex justify-between items-center mb-4">
+        <h2 class="text-3xl font-bold mb-6">Ergebnis</h2>
+            <button onclick="window.print()"
+                class="bg-[#1B4332] text-white px-4 py-2 rounded-md shadow hover:bg-[#123524] transition print:hidden">
+                Profil drucken
+            </button>
+        </div>
+        <div id="result-list" class="space-y-4"></div>
+    </div>
+</div>
+
+
+
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/cdn.tailwindcss.3.4.17.js"></script>
     
 </body>
 </html>

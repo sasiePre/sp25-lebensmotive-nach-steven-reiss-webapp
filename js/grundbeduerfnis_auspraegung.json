@@ -1,0 +1,66 @@
+{
+  "anerkennung": {
+    "stark": "Menschen mit starker Ausprägung des Bedürfnisses nach Anerkennung haben ein starkes Bedürfnis nach Bestätigung durch andere, sind oft sehr sensibel gegenüber Kritik und streben nach Lob und Anerkennung.",
+    "schwach": "Menschen mit schwacher Ausprägung dieses Bedürfnisses sind in der Regel selbstsicher, unabhängig von der Meinung anderer, und können gut mit Kritik umgehen."
+  },
+  "beziehungen": {
+    "stark": "Eine starke Ausprägung des Bedürfnisses nach Beziehungen zeigt sich in einem hohen Wunsch nach sozialen Kontakten, Freundschaften und emotionalem Austausch.",
+    "schwach": "Menschen mit schwacher Ausprägung dieses Bedürfnisses genießen Alleinsein, brauchen wenig sozialen Kontakt und meiden häufig Smalltalk oder Gruppenaktivitäten."
+  },
+  "ehre": {
+    "stark": "Ein starker Wunsch nach Ehre bedeutet, dass die Person großen Wert auf moralisches Verhalten, Loyalität und Integrität legt. Prinzipien sind wichtig und bestimmen das Handeln.",
+    "schwach": "Personen mit geringer Ausprägung dieses Bedürfnisses orientieren sich pragmatisch. Regeln und Prinzipien werden flexibel gehandhabt, moralisches Verhalten steht nicht im Mittelpunkt."
+  },
+  "eros": {
+    "stark": "Eine starke Ausprägung dieses Bedürfnisses äußert sich in einem hohen Interesse an Erotik, Sexualität und körperlicher Anziehung. Diese Aspekte werden aktiv gesucht und gepflegt.",
+    "schwach": "Menschen mit schwacher Ausprägung empfinden Sexualität oft als weniger wichtig, haben ein geringes Bedürfnis nach körperlicher Nähe oder meiden erotische Situationen bewusst."
+  },
+  "essen": {
+    "stark": "Wer dieses Bedürfnis stark ausgeprägt hat, liebt gutes Essen, genießt Mahlzeiten intensiv und beschäftigt sich häufig mit Nahrungsmitteln und kulinarischer Kultur.",
+    "schwach": "Personen mit schwacher Ausprägung essen oft funktional, um satt zu werden. Sie zeigen wenig Interesse an Geschmack oder Qualität von Speisen."
+  },
+  "familie": {
+    "stark": "Eine starke Ausprägung des Familienbedürfnisses zeigt sich in engem Kontakt zur Familie, dem Wunsch nach eigenen Kindern und einem familiären Alltag.",
+    "schwach": "Menschen mit schwacher Ausprägung dieses Bedürfnisses empfinden Familie oft als Belastung, verbringen wenig Zeit mit Verwandten und ziehen ein unabhängiges Leben vor."
+  },
+  "idealismus": {
+    "stark": "Menschen mit starkem Idealismus engagieren sich für Gerechtigkeit, wollen einen Beitrag zur Gesellschaft leisten und verfolgen oft soziale oder ökologische Ziele.",
+    "schwach": "Bei schwacher Ausprägung steht das persönliche Wohl im Vordergrund. Man fühlt sich nicht verantwortlich für gesellschaftliche Missstände oder das Schicksal anderer."
+  },
+  "körperliche_aktivität": {
+    "stark": "Eine starke Ausprägung dieses Bedürfnisses äußert sich in regelmäßiger sportlicher Betätigung, Freude an Bewegung und einem aktiven Lebensstil.",
+    "schwach": "Personen mit schwacher Ausprägung vermeiden körperliche Anstrengung, bevorzugen sitzende Tätigkeiten und fühlen sich durch Sport eher belastet."
+  },
+  "macht": {
+    "stark": "Menschen mit starker Ausprägung des Machtbedürfnisses übernehmen gerne Verantwortung, führen andere, treffen Entscheidungen und streben nach Einfluss.",
+    "schwach": "Wer wenig Machtbedürfnis hat, delegiert Verantwortung, meidet Führungsrollen und fühlt sich unter Druck, wenn er Entscheidungen treffen muss."
+  },
+  "neugier": {
+    "stark": "Eine hohe Ausprägung bedeutet starkes Interesse an Wissen, Lernen und intellektuellem Austausch. Solche Menschen sind oft belesen und wissbegierig.",
+    "schwach": "Menschen mit schwacher Neugier sind pragmatisch, beschäftigen sich mit dem Notwendigen und meiden theoretische oder komplexe Themen."
+  },
+  "ordnung": {
+    "stark": "Dieses Bedürfnis ist stark ausgeprägt bei Personen, die Struktur, Regeln, Pünktlichkeit und Planbarkeit schätzen. Unordnung löst Stress aus.",
+    "schwach": "Personen mit schwacher Ausprägung sind spontan, flexibel und fühlen sich durch strikte Pläne oder Ordnung eher eingeengt."
+  },
+  "rache_wettkampf": {
+    "stark": "Ein stark ausgeprägtes Bedürfnis nach Rache/Wettkampf zeigt sich in hoher Wettbewerbsorientierung, Ehrgeiz und dem Wunsch, sich durchzusetzen.",
+    "schwach": "Menschen mit geringer Ausprägung meiden Konkurrenz, gehen Konfrontationen aus dem Weg und streben eher nach Harmonie."
+  },
+  "ruhe": {
+    "stark": "Bei starker Ausprägung besteht ein hohes Sicherheitsbedürfnis, Angstvermeidung und Wunsch nach Ruhe, Stabilität und Absicherung.",
+    "schwach": "Menschen mit niedriger Ausprägung sind risikobereit, stressresistent und genießen Herausforderungen oder neue Situationen."
+  },
+  "sparen": {
+    "stark": "Ein stark ausgeprägtes Bedürfnis nach Sparen zeigt sich in Besitzstandswahrung, Sammeltrieb und Vorsicht im Umgang mit Geld oder Ressourcen.",
+    "schwach": "Personen mit geringer Ausprägung sind großzügig, materialistisch eher gleichgültig und geben Dinge leichter ab."
+  },
+  "status": {
+    "stark": "Eine starke Statusausprägung äußert sich im Streben nach Anerkennung, Prestige, Titeln, Markenprodukten und gesellschaftlicher Position.",
+    "schwach": "Menschen mit schwacher Statusausprägung legen wenig Wert auf äußeren Schein oder gesellschaftliche Bewertung, sie leben eher schlicht."
+  },
+  "unabhängigkeit": {
+    "stark": "Menschen mit starkem Bedürfnis nach Unabhängigkeit handeln selbstständig, wollen allein entscheiden und ziehen sich aus Gruppen oft zurück.",
+    "schwach": "Personen mit schwacher Ausprägung suchen Gemeinschaft, arbeiten gerne im Team und schätzen Unterstützung von anderen."
+  }
+}

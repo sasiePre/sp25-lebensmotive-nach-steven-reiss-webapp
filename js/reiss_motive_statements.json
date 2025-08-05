@@ -1,0 +1,514 @@
+{
+  "anerkennung": [
+    {
+      "aussage": "Ich bin merklich unsicherer als die meisten Menschen.",
+      "punkte": 1,
+      "grundbedurfnis": "anerkennung"
+    },
+    {
+      "aussage": "Ich habe mehr Schwierigkeiten als die meisten Menschen, mit Kritik umzugehen.",
+      "punkte": 1,
+      "grundbedurfnis": "anerkennung"
+    },
+    {
+      "aussage": "Man sagt mir nach, unbeständig in Bezug auf meine Leistung zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "anerkennung"
+    },
+    {
+      "aussage": "Ich bin selbstsicher.",
+      "punkte": -1,
+      "grundbedurfnis": "anerkennung"
+    },
+    {
+      "aussage": "Man sagt mir nach, in Bezug auf meine Leistung beständig zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "anerkennung"
+    },
+    {
+      "aussage": "Ich habe eine „Kann ich“-Einstellung.",
+      "punkte": -1,
+      "grundbedurfnis": "anerkennung"
+    }
+  ],
+  "beziehungen": [
+    {
+      "aussage": "Ich bin gut darin, soziale Beziehungen aufzubauen.",
+      "punkte": 1,
+      "grundbedurfnis": "beziehungen"
+    },
+    {
+      "aussage": "Ich werde von anderen als freundlich wahrgenommen.",
+      "punkte": 1,
+      "grundbedurfnis": "beziehungen"
+    },
+    {
+      "aussage": "Ich habe ein aktiveres soziales Leben als die meisten Leute, die ich kenne.",
+      "punkte": 1,
+      "grundbedurfnis": "beziehungen"
+    },
+    {
+      "aussage": "Andere Leute nehmen mich oft als unnahbar wahr.",
+      "punkte": -1,
+      "grundbedurfnis": "beziehungen"
+    },
+    {
+      "aussage": "Ich verbringe viel Zeit alleine (mehr als die meisten Menschen, die ich kenne).",
+      "punkte": -1,
+      "grundbedurfnis": "beziehungen"
+    },
+    {
+      "aussage": "Ich habe Probleme damit, Smalltalk zu machen.",
+      "punkte": -1,
+      "grundbedurfnis": "beziehungen"
+    }
+  ],
+  "ehre": [
+    {
+      "aussage": "Ich lege Wert darauf, meine Pflicht zu tun.",
+      "punkte": 1,
+      "grundbedurfnis": "ehre"
+    },
+    {
+      "aussage": "Ich gelte als loyal.",
+      "punkte": 1,
+      "grundbedurfnis": "ehre"
+    },
+    {
+      "aussage": "Auf mein Wort kann man sich verlassen.",
+      "punkte": 1,
+      "grundbedurfnis": "ehre"
+    },
+    {
+      "aussage": "Wenn es darum ginge, meinen Job zu behalten, würde ich lügen.",
+      "punkte": -1,
+      "grundbedurfnis": "ehre"
+    },
+    {
+      "aussage": "Wenn sich die Umstände verändern fällt es mir schwer, Verpflichtungen einzuhalten, die ich vorher eingegangen bin.",
+      "punkte": -1,
+      "grundbedurfnis": "ehre"
+    },
+    {
+      "aussage": "Man sagt mir nach, unschlüssig zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "ehre"
+    }
+  ],
+  "eros": [
+    {
+      "aussage": "Ich ziehe mich jeden Tag so an, dass ich attraktiv aussehe.",
+      "punkte": 1,
+      "grundbedurfnis": "eros"
+    },
+    {
+      "aussage": "Sexualität ist von wesentlicher Bedeutung für mein Glück.",
+      "punkte": 1,
+      "grundbedurfnis": "eros"
+    },
+    {
+      "aussage": "Ich bin beeindruckt von Menschen, die viele Sexualpartner anziehen.",
+      "punkte": 1,
+      "grundbedurfnis": "eros"
+    },
+    {
+      "aussage": "Ich habe selten Sex (bedeutend weniger als einmal in der Woche).",
+      "punkte": -1,
+      "grundbedurfnis": "eros"
+    },
+    {
+      "aussage": "Bezüglich meiner sexuellen Fähigkeiten habe ich ein geringes Selbstbewusstsein.",
+      "punkte": -1,
+      "grundbedurfnis": "eros"
+    },
+    {
+      "aussage": "Ich denke im Alltag nur wenig an Sex.",
+      "punkte": -1,
+      "grundbedurfnis": "eros"
+    }
+  ],
+  "essen": [
+    {
+      "aussage": "Ich habe viel Freude am Essen.",
+      "punkte": 1,
+      "grundbedurfnis": "essen"
+    },
+    {
+      "aussage": "Ich habe eine Tendenz, übergewichtig zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "essen"
+    },
+    {
+      "aussage": "Ich weiß viel über Essen und bin ein Feinschmecker.",
+      "punkte": 1,
+      "grundbedurfnis": "essen"
+    },
+    {
+      "aussage": "Ich habe eine Tendenz, untergewichtig zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "essen"
+    },
+    {
+      "aussage": "Ich freue mich nur selten auf Mahlzeiten.",
+      "punkte": -1,
+      "grundbedurfnis": "essen"
+    },
+    {
+      "aussage": "Man sagt mir nach, beim Essen heikel zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "essen"
+    }
+  ],
+  "familie": [
+    {
+      "aussage": "Mir bedeuten Kinder alles.",
+      "punkte": 1,
+      "grundbedurfnis": "familie"
+    },
+    {
+      "aussage": "Ich mag es, Kinder um mich zu haben.",
+      "punkte": 1,
+      "grundbedurfnis": "familie"
+    },
+    {
+      "aussage": "Ich verbringe viel Zeit mit meiner Familie.",
+      "punkte": 1,
+      "grundbedurfnis": "familie"
+    },
+    {
+      "aussage": "Kinder langweilen mich.",
+      "punkte": -1,
+      "grundbedurfnis": "familie"
+    },
+    {
+      "aussage": "Als ich jünger war, wollte ich keine Kinder.",
+      "punkte": -1,
+      "grundbedurfnis": "familie"
+    },
+    {
+      "aussage": "Ich habe oft zu viel zu tun, um Zeit mit meiner Familie zu verbringen.",
+      "punkte": -1,
+      "grundbedurfnis": "familie"
+    }
+  ],
+  "idealismus": [
+    {
+      "aussage": "Ich habe Mitgefühl mit armen und kranken Menschen.",
+      "punkte": 1,
+      "grundbedurfnis": "idealismus"
+    },
+    {
+      "aussage": "Ich bewundere Menschen deren Arbeit zum Wohl der Menschheit oder der Bedürftigen beiträgt.",
+      "punkte": 1,
+      "grundbedurfnis": "idealismus"
+    },
+    {
+      "aussage": "Ich spende großzügig für wohltätige Zwecke.",
+      "punkte": 1,
+      "grundbedurfnis": "idealismus"
+    },
+    {
+      "aussage": "Ich bin der Meinung, dass es nicht in meiner Verantwortung liegt, den Unterdrückten zu helfen.",
+      "punkte": -1,
+      "grundbedurfnis": "idealismus"
+    },
+    {
+      "aussage": "Ich „sehe lieber weg“, statt mich für die Probleme anderer Menschen zu engagieren.",
+      "punkte": -1,
+      "grundbedurfnis": "idealismus"
+    },
+    {
+      "aussage": "Ich bin nur selten über soziale Ungerechtigkeit empört.",
+      "punkte": -1,
+      "grundbedurfnis": "idealismus"
+    }
+  ],
+  "körperliche_aktivität": [
+    {
+      "aussage": "Sport zu treiben ist mir wichtig, um glücklich zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "körperliche_aktivität"
+    },
+    {
+      "aussage": "Ich bin aktives Mitglied in einer Mannschaft.",
+      "punkte": 1,
+      "grundbedurfnis": "körperliche_aktivität"
+    },
+    {
+      "aussage": "Fit zu sein ist mir sehr wichtig.",
+      "punkte": 1,
+      "grundbedurfnis": "körperliche_aktivität"
+    },
+    {
+      "aussage": "Man sagt mir nach, körperlich faul zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "körperliche_aktivität"
+    },
+    {
+      "aussage": "Ich neige dazu, körperlich anstrengende Aktivitäten zu meiden.",
+      "punkte": -1,
+      "grundbedurfnis": "körperliche_aktivität"
+    },
+    {
+      "aussage": "Ich bin nicht fit.",
+      "punkte": -1,
+      "grundbedurfnis": "körperliche_aktivität"
+    }
+  ],
+  "macht": [
+    {
+      "aussage": "Man sagt mir nach, selbst die Dinge in die Hand zu nehmen.",
+      "punkte": 1,
+      "grundbedurfnis": "macht"
+    },
+    {
+      "aussage": "Ich strebe oft nach der Führungsrolle.",
+      "punkte": 1,
+      "grundbedurfnis": "macht"
+    },
+    {
+      "aussage": "Ich neige dazu, anderen ungefragte Ratschläge zu geben.",
+      "punkte": 1,
+      "grundbedurfnis": "macht"
+    },
+    {
+      "aussage": "Ich meide oft Herausforderungen.",
+      "punkte": -1,
+      "grundbedurfnis": "macht"
+    },
+    {
+      "aussage": "Es ist mir unangenehm, anderen zu sagen was sie tun sollen.",
+      "punkte": -1,
+      "grundbedurfnis": "macht"
+    },
+    {
+      "aussage": "Man sagt mir nach, entspannt zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "macht"
+    }
+  ],
+  "neugier": [
+    {
+      "aussage": "Man sagt mir nach, analytisch und nachdenklich zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "neugier"
+    },
+    {
+      "aussage": "Meine Ideen sind mir sehr wichtig.",
+      "punkte": 1,
+      "grundbedurfnis": "neugier"
+    },
+    {
+      "aussage": "Man sagt mir nach, ein „Denker“ zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "neugier"
+    },
+    {
+      "aussage": "Man sagt mir nach, ein praktisch veranlagter Mensch zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "neugier"
+    },
+    {
+      "aussage": "Ich denke nur selten über Theorien nach, die nicht umgesetzt werden können.",
+      "punkte": -1,
+      "grundbedurfnis": "neugier"
+    },
+    {
+      "aussage": "Die Schule ist/war für mich eher langweilig.",
+      "punkte": -1,
+      "grundbedurfnis": "neugier"
+    }
+  ],
+  "ordnung": [
+    {
+      "aussage": "Man sagt mir nach, gut organisiert zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "ordnung"
+    },
+    {
+      "aussage": "Man sagt mir nach, sehr sauber zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "ordnung"
+    },
+    {
+      "aussage": "Ich habe Schwierigkeiten, mich Veränderungen anzupassen.",
+      "punkte": 1,
+      "grundbedurfnis": "ordnung"
+    },
+    {
+      "aussage": "Man sagt mir nach, chaotisch zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "ordnung"
+    },
+    {
+      "aussage": "Ich mache gerne spontane Dinge.",
+      "punkte": -1,
+      "grundbedurfnis": "ordnung"
+    },
+    {
+      "aussage": "Ich neige dazu, mehrere Dinge gleichzeitig zu machen.",
+      "punkte": -1,
+      "grundbedurfnis": "ordnung"
+    }
+  ],
+  "rache_wettkampf": [
+    {
+      "aussage": "Ich gerate oft in Streitereien, Wortgefechte oder Prügeleien.",
+      "punkte": 1,
+      "grundbedurfnis": "rache_wettkampf"
+    },
+    {
+      "aussage": "Man sagt mir nach, gerne mit anderen zu konkurrieren bzw. zu kämpfen.",
+      "punkte": 1,
+      "grundbedurfnis": "rache_wettkampf"
+    },
+    {
+      "aussage": "Zu siegen ist mir sehr wichtig.",
+      "punkte": 1,
+      "grundbedurfnis": "rache_wettkampf"
+    },
+    {
+      "aussage": "Man sagt mir nach, ein Friedensstifter zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "rache_wettkampf"
+    },
+    {
+      "aussage": "Ich gebe mir große Mühe, Konfrontationen aus dem Weg zu gehen.",
+      "punkte": -1,
+      "grundbedurfnis": "rache_wettkampf"
+    },
+    {
+      "aussage": "Gewalt finde ich abschreckend.",
+      "punkte": -1,
+      "grundbedurfnis": "rache_wettkampf"
+    }
+  ],
+  "ruhe": [
+    {
+      "aussage": "Ich mache mir häufig Sorgen.",
+      "punkte": 1,
+      "grundbedurfnis": "ruhe"
+    },
+    {
+      "aussage": "Ich habe Panikattacken.",
+      "punkte": 1,
+      "grundbedurfnis": "ruhe"
+    },
+    {
+      "aussage": "Ich habe eine geringe Schmerztoleranz.",
+      "punkte": 1,
+      "grundbedurfnis": "ruhe"
+    },
+    {
+      "aussage": "Ich bin ein Draufgänger.",
+      "punkte": -1,
+      "grundbedurfnis": "ruhe"
+    },
+    {
+      "aussage": "Man sagt mir nach, unter Druck gelassen zu bleiben.",
+      "punkte": -1,
+      "grundbedurfnis": "ruhe"
+    },
+    {
+      "aussage": "Man sagt mir nach, bei Gefahren mutig zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "ruhe"
+    }
+  ],
+  "sparen": [
+    {
+      "aussage": "Ich repariere lieber etwas, bevor ich Ersatz kaufe.",
+      "punkte": 1,
+      "grundbedurfnis": "sparen"
+    },
+    {
+      "aussage": "Ich mag es überhaupt nicht, etwas wegzuwerfen.",
+      "punkte": 1,
+      "grundbedurfnis": "sparen"
+    },
+    {
+      "aussage": "Ich bin ein sparsamer Mensch.",
+      "punkte": 1,
+      "grundbedurfnis": "sparen"
+    },
+    {
+      "aussage": "Die meisten Dinge, die ich besitze, sind mir gleichgültig.",
+      "punkte": -1,
+      "grundbedurfnis": "sparen"
+    },
+    {
+      "aussage": "Ich gebe oft mehr aus, als mir im Monat zur Verfügung steht.",
+      "punkte": -1,
+      "grundbedurfnis": "sparen"
+    },
+    {
+      "aussage": "Man sagt mir nach, verschwenderisch zu sein.",
+      "punkte": -1,
+      "grundbedurfnis": "sparen"
+    }
+  ],
+  "status": [
+    {
+      "aussage": "Man sagt mir nach, ein förmlicher Mensch zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "status"
+    },
+    {
+      "aussage": "Ich kaufe mir meistens die prestigeträchtigsten Dinge (Markenkleidung, Auto, Handy, usw.), die ich mir leisten kann.",
+      "punkte": 1,
+      "grundbedurfnis": "status"
+    },
+    {
+      "aussage": "Ich bin von reichen Menschen beeindruckt.",
+      "punkte": 1,
+      "grundbedurfnis": "status"
+    },
+    {
+      "aussage": "Reiche Menschen beeindrucken mich nicht.",
+      "punkte": -1,
+      "grundbedurfnis": "status"
+    },
+    {
+      "aussage": "Ich bin ein zwangloser Mensch.",
+      "punkte": -1,
+      "grundbedurfnis": "status"
+    },
+    {
+      "aussage": "Ich mache mir nicht viel daraus, was andere Menschen von mir denken.",
+      "punkte": -1,
+      "grundbedurfnis": "status"
+    }
+  ],
+  "unabhängigkeit": [
+    {
+      "aussage": "Selbstsicher zu sein ist mir sehr wichtig.",
+      "punkte": 1,
+      "grundbedurfnis": "unabhängigkeit"
+    },
+    {
+      "aussage": "Man sagt mir nach, eigensinnig zu sein.",
+      "punkte": 1,
+      "grundbedurfnis": "unabhängigkeit"
+    },
+    {
+      "aussage": "Man sagt mir nach, etwas so zu machen, wie ich es will.",
+      "punkte": 1,
+      "grundbedurfnis": "unabhängigkeit"
+    },
+    {
+      "aussage": "Ich schätze „gefühlsbetonte“ Erfahrungen.",
+      "punkte": -1,
+      "grundbedurfnis": "unabhängigkeit"
+    },
+    {
+      "aussage": "Ich bin ein stärkerer Querdenker als die meisten Menschen, die ich kenne.",
+      "punkte": -1,
+      "grundbedurfnis": "unabhängigkeit"
+    },
+    {
+      "aussage": "Ich fühle mich wohl, wenn ich mich auf die Unterstützung von der Familie oder dem Partner/der Partnerin verlassen kann.",
+      "punkte": -1,
+      "grundbedurfnis": "unabhängigkeit"
+    }
+  ]
+}
